@@ -1,5 +1,10 @@
 # Weather_Dashboard
 
+For this project I am building a website using Openweather API to load the forecast for the current day
+as well as a five day forecast. 
+
+
+
 ## User Story
 
 AS A traveler
