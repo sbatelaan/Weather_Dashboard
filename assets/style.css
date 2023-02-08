@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(56, 55, 55);
+    color: rgb(240, 46, 46);
+}
+
+.main {
+    display: flex;
+}
+
+header {
+    background-color: rgb(109, 96, 96);
+    padding: 20px;
+
+}
+
+h2 {
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+#weather-box {
+    margin-top: 1px;
+    
+}
+
+#search-bar {
+    padding: 30px;
+}
+
+.search-box {
+    margin: 2rem 2rem 3rem 2rem;
+    width: 20rem;
+    height: auto;
+    background-color: white;
+
+}
+
+.current-box {
+    width: 70rem;
+    padding: 10px;
+    height: 15rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+    display: flex;
+    align-items: flex-start;
+    border: 2px solid red ;
+    background-color: rgb(209, 198, 198);
+
+}
+
+#current-weather {
+    flex-direction: column;
+    ;
+}
+
+#forecast {
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
