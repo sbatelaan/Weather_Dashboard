@@ -33,3 +33,12 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 
 THEN I am again presented with current and future conditions for that city
+
+
+
+https://sbatelaan.github.io/Weather_Dashboard/
+
+
+
+![project_screenshot](https://user-images.githubusercontent.com/119352363/217440243-6852ebdb-d0bc-44db-8694-d4e37240990c.jpg)
+
